@@ -241,7 +241,7 @@ while True :
             grupo2.clear(view,cob)
         view.blit(infor1, (10, 110))
         view.blit(infor2, (10, 140))
-        view.blit(infor2, (10, 170))
+        view.blit(infor3, (10, 170))
     clock.tick(60)
     pg.display.flip()
     
